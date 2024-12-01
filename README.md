@@ -1,9 +1,9 @@
-# Awesome AI LLM Development Resources
+# Awesome AI LLM Development Resources 🚀
 
 Welcome to this **awesome** collection of resources on **AI** and **Large Language Model (LLM) development**. 
 This comprehensive guide covers everything from basic concepts to advanced techniques, helping you navigate the exciting world of **AI** and **LLM development**.
 
-**Contributions welcomed 🚀**
+## Contributions welcomed
 
 As someone who works on creating Generative AI applications using LLMs, not as an ML engineer but as a backend web developer, I've been asked by many people how to get started. Over the past year, I learned by doing, reading research papers, articles, blog posts, and watching YouTube videos without any particular order, basically piecing it all together. I've decided to create a curated list of how I think people should learn this.
 
@@ -231,3 +231,17 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 4. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (Research paper that introduced the Transformers architecture)
 5. [Attention Is All You Need - Explained](https://youtu.be/bCz4OMemCcA) (A video explanation of the research paper with nice visualizations)
 6. [LLM Visualization Website](https://bbycroft.net/llm) (A very nice website that explains how LLMs/Transformers architecture works)
+
+## Related 
+
+- [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+
+   A currated list of trending research papers with code
+  
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
+  
+  A curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.)
+
+## License
+
+GNU General Public License v3.0
