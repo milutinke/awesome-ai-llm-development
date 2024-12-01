@@ -9,7 +9,9 @@ This guide is oriented towards practical, and non-theoretical approach, advocati
 
 As someone who works on creating Generative AI applications using LLMs, not as an ML engineer but as a backend web developer, I've been asked by many people how to get started. Over the past year, I learned by doing, reading research papers, articles, blog posts, and watching YouTube videos without any particular order, basically piecing it all together. I've decided to create a curated list to help people of various background learn this in a practical manner.
 
-Thus, I strongly encourage and welcome **contributions** to this list to enhance its quality and relevance. **Your input** can help include valuable resources I may have missed.
+Thus, I strongly encourage and welcome **contributions** to this list to enhance its quality and relevance. 
+
+**Your input** can help include valuable resources I may have missed.
 
 Cheers 🥂
 
