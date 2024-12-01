@@ -1,15 +1,16 @@
 # Awesome AI LLM Development Resources 🚀
 
-Welcome to this **awesome** collection of resources on **AI** and **Large Language Model (LLM) development**. 
-This comprehensive guide covers everything from basic concepts to advanced techniques, helping you navigate the exciting world of **AI** and **LLM development**.
+**Awesome Collection of Resources for Learning AI and Large Language Model (LLM) Development**
 
-## Contributions welcomed
+Discover a comprehensive list that covers everything from basic concepts to advanced topics, helping you navigate the exciting world of creating **Generative AI** (**GenAI**) applications using **LLMs**. Whether you're already developing **GenAI** apps or looking to enter the field, there's something here for everyone.
+
+### Contributions welcomed
 
 As someone who works on creating Generative AI applications using LLMs, not as an ML engineer but as a backend web developer, I've been asked by many people how to get started. Over the past year, I learned by doing, reading research papers, articles, blog posts, and watching YouTube videos without any particular order, basically piecing it all together. I've decided to create a curated list of how I think people should learn this.
 
-**Thus, I strongly encourage and welcome people to contribute to this list to improve it.** I may be missing something, and I'm sure there are better resources to link.
+Thus, I strongly encourage and welcome **contributions** to this list to enhance its quality and relevance. **Your input** can help include valuable resources I may have missed.
 
-Cheers!
+Cheers 🥂
 
 ---
 
@@ -26,7 +27,8 @@ Cheers!
 - [Appendix](#appendix)
   - [Production Pre-requisites](#production-pre-requisites)
   - [Optional Stuff](#optional-stuff)
-
+- [Related Awesome Currated Lists](#related)
+  
 ---
 
 ## Section 1: The Basic Concepts
@@ -241,6 +243,10 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
   
   A curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.)
+
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+  A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your compute
 
 ## License
 
