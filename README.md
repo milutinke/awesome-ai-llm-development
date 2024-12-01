@@ -254,6 +254,7 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 
 ## TODO:
 
+- [ ] Include a more advanced Prompt Engineering section
 - [ ] Link additional resources  
 - [ ] Find and link code examples of Generative AI applications using LLMs and LLM AI Agents
 - [ ] Link more of similar/on-topic repositories
