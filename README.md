@@ -2,11 +2,12 @@
 
 **Awesome Collection of Resources for Learning AI and Large Language Model (LLM) Development**
 
-Discover a comprehensive list that covers everything from basic concepts to advanced topics, helping you navigate the exciting world of creating **Generative AI** (**GenAI**) applications using **LLMs**. Whether you're already developing **GenAI** apps or looking to enter the field, there's something here for everyone.
+Discover a comprehensive guide that covers everything from basic concepts to advanced topics, helping you navigate the exciting world of creating **Generative AI** (**GenAI**) applications using **LLMs**. Whether you're already developing **GenAI** apps or looking to enter the field, there's something here for everyone.
+This guide is oriented towards practical, and non-theoretical approach, advocating on hands on approach.
 
 ### Contributions welcomed
 
-As someone who works on creating Generative AI applications using LLMs, not as an ML engineer but as a backend web developer, I've been asked by many people how to get started. Over the past year, I learned by doing, reading research papers, articles, blog posts, and watching YouTube videos without any particular order, basically piecing it all together. I've decided to create a curated list of how I think people should learn this.
+As someone who works on creating Generative AI applications using LLMs, not as an ML engineer but as a backend web developer, I've been asked by many people how to get started. Over the past year, I learned by doing, reading research papers, articles, blog posts, and watching YouTube videos without any particular order, basically piecing it all together. I've decided to create a curated list to help people of various background learn this in a practical manner.
 
 Thus, I strongly encourage and welcome **contributions** to this list to enhance its quality and relevance. **Your input** can help include valuable resources I may have missed.
 
@@ -28,6 +29,7 @@ Cheers 🥂
   - [Production Pre-requisites](#production-pre-requisites)
   - [Optional Stuff](#optional-stuff)
 - [Related Awesome Currated Lists](#related)
+- [TODO](#todo)
   
 ---
 
@@ -247,6 +249,13 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
   A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your compute
+
+## TODO:
+
+- [ ] Link additional resources  
+- [ ] Find and link code examples of Generative AI applications using LLMs and LLM AI Agents
+- [ ] Link more of similar/on-topic repositories
+- [ ] Expand the optional theoretical background section to include resources for learning ML in depth and better resources on how LLMs work under the hood  
 
 ## License
 
