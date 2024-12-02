@@ -79,13 +79,19 @@ Cheers 🥂
 
 ### Actually Building Gen AI Apps Using OpenAI API Standard
 
-1. [Using OpenAI API - Documentation](https://platform.openai.com/docs/quickstart)
-2. [Using ChatGPT/LLMs with OpenAI Python Package](https://youtu.be/I6T9Ztn0S-M) (Video)
-3. [What are LLM Tools/Function Calls](https://youtu.be/P3buv6P_u7c)
+1. [Using OpenAI API - Documentation](https://platform.openai.com/docs/quickstart) (Learn how to use the OpenAI API)
+2. [Using ChatGPT/LLMs with OpenAI Python Package](https://youtu.be/I6T9Ztn0S-M) (Video for OpenAI API)
+3. [What are LLM Tools/Function Calls](https://youtu.be/P3buv6P_u7c) (Learn how to call function/use tools with LLMs)
 4. [LLM Function/Tool Calling - Deep Dive + Examples](https://youtu.be/gMeTK6zzaO4)
-5. [OpenAI Assistants API](https://youtu.be/0h1ry-SqINc)
-6. [What is LangChain?](https://youtu.be/1bUy-1hGZpI)
-7. [LangChain Master Class](https://youtu.be/yF9kGESAi3M)
+5. [OpenAI Assistants API](https://youtu.be/0h1ry-SqINc) (Learn OpenAI Assistant API which provides a lot of bootstraped stuff)
+6. LangChain
+    - [What is LangChain?](https://youtu.be/1bUy-1hGZpI)
+    - [LangChain Master Class](https://youtu.be/yF9kGESAi3M)
+
+9. Langsmith
+    - [What is Langsmith?](https://youtu.be/jx7xuHlfsEQ)
+    - [Langsmith Documentation](https://docs.smith.langchain.com/)
+    - [Langsmith Crash Course (Video)](https://youtu.be/tFXm5ijih98)
 
 ## Section 4: Embeddings and Vector Databases
 
@@ -259,8 +265,8 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 
 ## TODO:
 
-- [ ] Include a more advanced Prompt Engineering section
-- [ ] Link additional resources  
+- [ ] Include a more advanced Prompt Engineering section - WIP
+- [ ] Link additional resources - WIP
 - [ ] Find and link code examples of Generative AI applications using LLMs and LLM AI Agents
 - [ ] Link more of similar/on-topic repositories
 - [ ] Expand the optional theoretical background section to include resources for learning ML in depth and better resources on how LLMs work under the hood  
