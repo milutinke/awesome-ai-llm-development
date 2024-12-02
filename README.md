@@ -238,6 +238,10 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 5. [Attention Is All You Need - Explained](https://youtu.be/bCz4OMemCcA) (A video explanation of the research paper with nice visualizations)
 6. [LLM Visualization Website](https://bbycroft.net/llm) (A very nice website that explains how LLMs/Transformers architecture works)
 
+### Miscellaneous
+
+- [How to choose an LLM based on price, speed and quality](https://artificialanalysis.ai/)
+
 ## Related 
 
 - [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
