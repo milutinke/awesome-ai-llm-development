@@ -253,7 +253,7 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 
 - [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
-   A currated list of trending research papers with code
+  A currated list of trending research papers with code
   
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
   
@@ -262,6 +262,10 @@ Things listed here are not 100% required, but it's nice to have at least a conce
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
   A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your compute
+
+- [Awesome LLMs Fine-Tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning)
+
+  A curated collection of resources for fine-tuning LLMs like GPT, BERT, and RoBERTa, featuring tutorials, tools, papers, and best practices to optimize models for specific tasks.
 
 ## TODO:
 
