@@ -46,6 +46,7 @@ Cheers 🥂
 7. [What is temperature in LLMs?](https://youtu.be/_YTnZOYxSjE)
 8. [What are Top P and Top K in LLMs?](https://youtu.be/aDmp2Uim0zQ)
 9. [How and where is Gen AI used?](https://youtu.be/oTqG2DbXl2Y)
+10. [Understanding Benchmarks](https://youtu.be/1JaL5eVqFq0)
 
 ## Section 2: Prompt Engineering - Basics
 
