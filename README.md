@@ -115,7 +115,8 @@ Cheers 🥂
 1. [What is RAG?](https://youtu.be/qppV3n3YlF8)
 2. [RAG vs Fine-Tuning](https://youtu.be/00Q0G84kq3M)
 3. [Simple (Naive) RAG Implementation Using MongoDB](https://youtu.be/JEBDfGqrAUA)
-4. [Implementing RAG from Scratch + Different Techniques](https://youtu.be/sVcwVQRHIc8) (Practical + Code Example)
+4. [Different Text Chunking Techniques](https://youtu.be/Pk2BeaGbcTE)
+5. [Implementing RAG from Scratch + Different Techniques](https://youtu.be/sVcwVQRHIc8) (Practical + Code Example)
 
 ## Section 6: Advanced RAG Techniques
 
