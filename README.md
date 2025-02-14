@@ -19,6 +19,7 @@ Cheers 🥂
 
 ## Table of Contents
 
+## For Programmers
 - [Section 1: The Basic Concepts](#section-1-the-basic-concepts)
 - [Section 2: Prompt Engineering - Basics](#section-2-prompt-engineering---basics)
 - [Section 3: Building GenAI Apps with LLM APIs](#section-3-building-genai-apps-with-llm-apis)
@@ -33,6 +34,15 @@ Cheers 🥂
 - [Related Awesome Currated Lists](#related)
 - [TODO](#todo)
   
+## For Non-Programmers
+
+If you are not a programmer, and you don't want to learn programming, you still can make powerfull AI automation workflows and AI agents using no-code tools such as n8n and similar.
+For this, refer to the following sections in order:
+- [Section 1: The Basic Concepts](#section-1-the-basic-concepts)
+- [Section 2: Prompt Engineering - Basics](#section-2-prompt-engineering---basics)
+- [Section 7: LLM AI Agents](#section-7-llm-ai-agents)
+- [Section 7.1: LLM AI Agents (No-Code tools)](#section-7-llm-ai-agents)
+
 ---
 
 ## Section 1: The Basic Concepts
@@ -116,6 +126,7 @@ Cheers 🥂
 2. [RAG vs Fine-Tuning](https://youtu.be/00Q0G84kq3M)
 3. [Simple (Naive) RAG Implementation Using MongoDB](https://youtu.be/JEBDfGqrAUA)
 4. [Different Text Chunking Techniques](https://youtu.be/Pk2BeaGbcTE)
+5. [Evaluation Chunking Techniques on a specific Domain](https://www.youtube.com/watch?v=wZ2DXaSIm4g)
 5. [Implementing RAG from Scratch + Different Techniques](https://youtu.be/sVcwVQRHIc8) (Practical + Code Example)
 
 ## Section 6: Advanced RAG Techniques
@@ -131,6 +142,21 @@ Cheers 🥂
 1. [What are AI Agents?](https://youtu.be/F8NKVhkZZWI)
 2. [AI Agents vs Assistants](https://youtu.be/IivxYYkJ2DI)
 3. [AI Agents Architectures](https://youtu.be/FEU6-Il8jjw)
+
+### For Programmers
+1. [Cole Medin's AI Agent Blueprint](https://www.youtube.com/watch?v=FGeB9w1ZeHE)
+
+
+## Section 7.1: LLM AI Agents (No-Code Tools)
+
+Even if you're a programmer, this might be worth looking in as you can prototype your automations and agents quickly and then later turn them to code.
+I'll be listing only n8n tutorials here, as it's the best no-code tool and the easiest one to use in my opinion.
+
+**NOTE:** *The following videos/channels will be out of order, they are a collection of different tutorias, showing different scenarios, but I do recommend watching them all*
+- [Making an AI agent in n8n using Gemini 2.0](https://www.youtube.com/live/56D91EcaUnM) (A nice to start)
+- [RAG AI Agent with n8n + Supabase](https://www.youtube.com/watch?v=PEI_ePNNfJQ)
+- [Nate Herk | AI Automation - Channel](https://www.youtube.com/@nateherk/videos) (An entire channel with a bunch of good tutorials and examples)
+- [AI Foundations](https://www.youtube.com/@ai-foundations) (Another great channel with good examples)
 
 ## Section 8: LLM AI Agents Frameworks
 
